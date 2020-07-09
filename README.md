@@ -1,2 +1,2 @@
 # Sessi8n
-WebSite sur la scéne Underground Electro.
+WebSite sur la scène Underground Electro.
